@@ -1,0 +1,21 @@
+Recon Tool — Scan Results
+Generated: 2026-06-11T13:08:55.756407Z
+============================================================
+
+[DIRECTORIES & FILES]
+  [200] http://localhost:8080/.gitattributes (474 bytes)
+  [403] http://localhost:8080/.hta (316 bytes)
+  [403] http://localhost:8080/.htaccess (316 bytes)
+  [403] http://localhost:8080/.htpasswd (316 bytes)
+  [301] http://localhost:8080/config (354 bytes)
+  [301] http://localhost:8080/database (356 bytes)
+  [301] http://localhost:8080/docs (352 bytes)
+  [301] http://localhost:8080/external (356 bytes)
+  [200] http://localhost:8080/favicon.ico (1406 bytes)
+  [302] http://localhost:8080/index.php (0 bytes)
+  [200] http://localhost:8080/php.ini (154 bytes)
+  [302] http://localhost:8080/phpinfo.php (0 bytes)
+  [200] http://localhost:8080/robots.txt (25 bytes)
+  [200] http://localhost:8080/security.txt (151 bytes)
+  [403] http://localhost:8080/server-status (316 bytes)
+  [301] http://localhost:8080/tests (353 bytes)
