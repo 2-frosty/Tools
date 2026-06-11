@@ -15,12 +15,11 @@ console = Console()
 
 BANNER = """
 [bold red]
- ▄▄▄▄ ▄▄▄▄  ▄▄▄▄ ▄▄   ▄▄▄▄  ▄▄▄ 
-░█ ▀▀ ░█ ░█ ░█ ░█ ░█ ░█ ░█ ░█ ░█
- ▀▀░▄ ▒█ ░█ ▒█ ▒█ ▒█ ▒█ ░█ ▒█ ░█
-░█ ▓░ ▓▓ ▓░ ▓▓ ▓▓ ▓▓ ▓▓ ▓░ ▓▓ ▓░
-▀▀▀▀  ▀▀ ▀▀ ▀▀ ▀▀ ▀▀  ▀▀▀▀ ▒█▀▀ 
-                           ▀▀   
+ █ooooooooooo                                     ooooooooo   o88              
+ 888    88  oo oooooo oooo  oooo  oo ooo oooo    888    88o oooo  oo oooooo  
+ 888ooo8     888   888 888   888   888 888 888   888    888  888   888    888
+ 888    oo   888   888 888   888   888 888 888   888    888  888   888       
+o888ooo8888 o888o o888o 888o88 8o o888o888o888o o888ooo88   o888o o888o      
 [/bold red]
 [dim]Subdomain · Directory · File Enumeration Tool[/dim]
 [dim]For authorised testing only.[/dim]
