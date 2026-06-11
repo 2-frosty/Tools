@@ -1,9 +1,4 @@
-#  ▄▄▄▄ ▄▄▄▄  ▄▄▄▄ ▄▄   ▄▄▄▄  ▄▄▄ 
-# ░█ ▀▀ ░█ ░█ ░█ ░█ ░█ ░█ ░█ ░█ ░█
-# ▀▀░▄ ▒█ ░█ ▒█ ▒█ ▒█ ▒█ ░█ ▒█ ░█
-# ░█ ▓░ ▓▓ ▓░ ▓▓ ▓▓ ▓▓ ▓▓ ▓░ ▓▓ ▓░
-# ▀▀▀▀  ▀▀ ▀▀ ▀▀ ▀▀ ▀▀  ▀▀▀▀ ▒█▀▀ 
-#                            ▀▀   
+#  EnumDir
 
 A Python-based web reconnaissance tool for subdomain enumeration, directory bruteforcing, and file discovery. Built for use during authorised penetration tests and bug bounty engagements.
 
