@@ -1,4 +1,3 @@
-# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,25 +19,20 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDE and Editor
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Environment
 .env
 .venv
 venv/
 ENV/
 
-# OS
+
 .DS_Store
 Thumbs.db
-
-# Generated files (but preserve existing wordlists and documentation)
-# Note: Keep wordlists/ and README files tracked
-!/EnumDir/v0.1\ Beta/wordlists/
-!/EnumDir/v0.1\ Beta/README.txt
-!/EnumDir/v0.1\ Beta/requirements.txt
+!/EnumDir/v0.2\ Beta/wordlists/
+!/EnumDir/v0.2\ Beta/README.txt
+!/EnumDir/v0.2\ Beta/requirements.txt
