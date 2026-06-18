@@ -2,6 +2,8 @@
 
 **Tina is Not an Agent** — an AI-powered reconnaissance & enumeration assistant for authorised security testing engagements.
 
+For anyone confused, Tina IS, in fact, an agent.
+
 Tina runs on [Ollama](https://ollama.ai/) (currently qwen3.5) and provides an interactive CLI for:
 - **Automated recon** — Tier-1 read-only commands (nmap, curl, dig, whatweb) run immediately
 - **User-controlled actions** — Tier-2 commands (gobuster, nikto, hydra, sqlmap) pause for your approval
@@ -341,7 +343,7 @@ If you run 50+ tool calls, early messages are summarised and dropped. Save your 
 
 ## Contributing
 
-Bug reports and security fixes are welcome. Please test locally before submitting PRs.
+If you encounter any issues or have any feedback whatsoever, submit a pull request, or email me on 2fr0sty@proton.me .
 
 ## License
 
