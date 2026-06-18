@@ -1,6 +1,9 @@
 # EnumDir
 
 Subdomain, directory, file and CMS enumeration tool for authorised security testing.
+This has been created as part of my preparation for the CPTS/OSCP exams, and should always be used only on domains in which you own or have permission to scan.
+As a developer, I believe in free, open source software, so feel free to make any changes you like.
+If you have any feedback, please contact me at 2fr0sty@proton.me .
 
 ## Install
 
@@ -55,9 +58,8 @@ python EnumDir.py example.com --dirs --status-codes 200 403
 
 ## Wordlists
 
-Default wordlists expected at:
-- `wordlists/subdomains.txt`
-- `wordlists/directories.txt`
+You must specify the full path to your wordlist of choice with the `--wordlist` flag. 
+I recommend using wordlists from `seclists`, which is pre-installed on Kali Linux/Parrot OS.
 
 ## Modules
 
